@@ -1,8 +1,8 @@
 package Java; 
 
-import java.util.ArrayList;
-//import java.util.Iterator;
-import java.util.ListIterator;
+// import java.util.ArrayList;
+// //import java.util.Iterator;
+// import java.util.ListIterator;
 
 // class hello {
 
@@ -57,25 +57,25 @@ import java.util.ListIterator;
 
 
 //
-public class ArrayList2  {
-    public static void main(String[] args) {
+// public class ArrayList2  {
+//     public static void main(String[] args) {
     
 
-                ArrayList<Integer> list = new ArrayList<>();
+//                 ArrayList<Integer> list = new ArrayList<>();
     
-                list.add(20);
-                list.add(14);
-                list.add(3);
-                list.add(10);
-                ListIterator<Integer> it=list.listIterator();
-                while (it.hasNext()) {
-                    Integer a= it.next();
+//                 list.add(20);
+//                 list.add(14);
+//                 list.add(3);
+//                 list.add(10);
+//                 ListIterator<Integer> it=list.listIterator();
+//                 while (it.hasNext()) {
+//                     Integer a= it.next();
                    
-                    if(a==t){
-                        break;
+//                     if(a==){
+//                         break;
                         
-                    }
-                }
-                System.out.println(it.previousIndex());
-            }
-}
+//                     }
+//                 }
+//                 System.out.println(it.previousIndex());
+//             }
+// }
