@@ -1,5 +1,3 @@
-
-
 class hello{
    static   int N=5;
      static void  draw(){
